@@ -102,7 +102,6 @@ export default function Footer() {
 
         {/* Bottom bar */}
         <div
-          className="mt-14 pt-6 flex flex-col md:flex-row items-center justify-between gap-4"
           className="mt-14 pt-4 flex flex-col md:flex-row items-center justify-between gap-4"
         >
           <p className="f-label" style={{ color: "rgba(10,10,10,0.25)" }}>
